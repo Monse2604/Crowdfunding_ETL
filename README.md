@@ -109,5 +109,5 @@ Check that your final DataFrame resembles the one in the following image:
    
 8. Import each CSV file into its corresponding SQL table.
 
-9. Verify that each table has the correct data by running a SELECT statement for each.
+9. Verify that each table has the correct data by running a ``SELECT`` statement for each.
 
