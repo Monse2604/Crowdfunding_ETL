@@ -12,7 +12,7 @@ The instructions for this mini project are divided into the following subsection
 - Create the Campaign DataFrame
 - Create the Contacts DataFrame
 - Create the Crowdfunding Database
-- 
+
 ## Create the Category and Subcategory DataFrames
 
 1. Extract and transform the ``crowdfunding.xlsx`` Excel data to create a category DataFrame that has the following columns:
@@ -35,7 +35,7 @@ The instructions for this mini project are divided into the following subsection
 
 ## Create the Campaign DataFrame
 
-Extract and transform the ``crowdfunding.xlsx`` Excel data to create a campaign DataFrame has the following columns:
+1. Extract and transform the ``crowdfunding.xlsx`` Excel data to create a campaign DataFrame has the following columns:
 
 * The "cf_id" column
 * The "contact_id" column
@@ -55,3 +55,5 @@ Extract and transform the ``crowdfunding.xlsx`` Excel data to create a campaign 
 
 ![image](https://github.com/user-attachments/assets/789585ef-e6c0-446e-b3fc-60f983b8a28f)
 
+
+2. Export the campaign DataFrame as campaign.csv and save it to your GitHub repository
