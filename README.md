@@ -67,28 +67,16 @@ Choose one of the following two options for extracting and transforming the data
 
 * Option 1: Use Python dictionary methods.
 
-* Option 2: Use regular expressions.
-
 If you chose Option 1, complete the following steps:
 
-Import the contacts.xlsx file into a DataFrame.
-Iterate through the DataFrame, converting each row to a dictionary.
-Iterate through each dictionary, doing the following:
-Extract the dictionary values from the keys by using a Python list comprehension.
-Add the values for each row to a new list.
-Create a new DataFrame that contains the extracted data.
-Split each "name" column value into a first and last name, and place each in a new column.
-Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
-
-If you chose Option 2, complete the following steps:
-
-Import the contacts.xlsx file into a DataFrame.
-Extract the "contact_id", "name", and "email" columns by using regular expressions.
-Create a new DataFrame with the extracted data.
-Convert the "contact_id" column to the integer type.
-Split each "name" column value into a first and a last name, and place each in a new column.
-Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
-Check that your final DataFrame resembles the one in the following image:
+1. Import the contacts.xlsx file into a DataFrame.
+2. Iterate through the DataFrame, converting each row to a dictionary.
+3. Iterate through each dictionary, doing the following:
+4. Extract the dictionary values from the keys by using a Python list comprehension.
+5. Add the values for each row to a new list.
+6. Create a new DataFrame that contains the extracted data.
+7. Split each "name" column value into a first and last name, and place each in a new column.
+8. Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
 
 
 ![image](https://github.com/user-attachments/assets/b9ace730-d8d4-460e-8502-6fa3e92e469f)
