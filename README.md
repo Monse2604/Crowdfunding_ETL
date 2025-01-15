@@ -101,3 +101,14 @@ If you chose Option 1, complete the following steps:
 
 9. Verify that each table has the correct data by running a ``SELECT`` statement for each.
 
+Category:
+
+![image](https://github.com/user-attachments/assets/bcfb02b9-76e8-486f-ad3a-426dd6463d45)
+
+Subcategory:
+
+![image](https://github.com/user-attachments/assets/b58d198f-ab9c-4cb6-8978-b1034b4806dd)
+
+
+
+
